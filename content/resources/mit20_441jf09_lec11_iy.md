@@ -7,8 +7,13 @@ description: Lecture notes on methodology for measuring surface ligand density, 
   a three-dimensional (3D) description of cell-scaffold interactions, choice of microscopy
   method for study of cell-seeded surfaces of biomaterials, and the molecular mechanism
   by which collagen-GAG scaffolds modify cell phenotypes in four cases.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-441j-biomaterials-tissue-interactions-fall-2009/61e91b8ae0eb17c68ce9efcc44bde8bb_MIT20_441JF09_lec11_iy.pdf
+file: /media/courses/20-441j-biomaterials-tissue-interactions-fall-2009/61e91b8ae0eb17c68ce9efcc44bde8bb_MIT20_441JF09_lec11_iy.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Methodology for Measuring Surface Ligand Density
 uid: 61e91b8a-e0eb-17c6-8ce9-efcc44bde8bb

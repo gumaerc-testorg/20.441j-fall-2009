@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture presentation on unit cell processes comprising the healing response.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-441j-biomaterials-tissue-interactions-fall-2009/eccafe2a7afdc9333e326098f0ed3120_MIT20_441JF09_lec03a_ms.pdf
+file: /media/courses/20-441j-biomaterials-tissue-interactions-fall-2009/eccafe2a7afdc9333e326098f0ed3120_MIT20_441JF09_lec03a_ms.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Unit Cell Processes Associated with Wound Healing
 uid: eccafe2a-7afd-c933-3e32-6098f0ed3120

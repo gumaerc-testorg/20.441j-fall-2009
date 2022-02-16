@@ -5,8 +5,13 @@ description: Lecture notes on cell-surface interactions, biological specificity 
   non-interacting sites, adsorption on interacting sites, cooperative processes, the
   unit cell process, a model of a critical transition from noncooperative to cooperative
   cell behavior, and use of matrix algebra to decompose Z.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-441j-biomaterials-tissue-interactions-fall-2009/c223a5626126a83acf580c1780db2b83_MIT20_441JF09_lec14_iy.pdf
+file: /media/courses/20-441j-biomaterials-tissue-interactions-fall-2009/c223a5626126a83acf580c1780db2b83_MIT20_441JF09_lec14_iy.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Biological Specificity and Cooperativity
 uid: c223a562-6126-a83a-cf58-0c1780db2b83
