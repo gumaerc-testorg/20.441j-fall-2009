@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 4119e0aa-103b-feda-8d48-4b951dae918c
 resourcetype: Document
 title: Characteristics of the Surfaces of Biomaterials
 uid: a060fe5c-253f-6c53-fc6b-0be14e9a0085

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 10ee7baf-ff91-ea7d-5ba3-0f86d9e3456c
 resourcetype: Document
 title: Stress-Supporting Structures
 uid: 3e8637ad-7db3-af2d-a0cc-ae43002eef30

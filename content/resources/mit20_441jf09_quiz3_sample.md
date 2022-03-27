@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 8c4b81c0-7948-f48d-39df-a1931e497ee9
 resourcetype: Document
 title: 'Quiz 3 Sample problem, as solved in class '
 uid: 5b0f063d-8aeb-8ad5-d52c-2122f8178715

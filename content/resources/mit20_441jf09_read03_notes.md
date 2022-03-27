@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 4119e0aa-103b-feda-8d48-4b951dae918c
 resourcetype: Document
 title: 'Unit Cell Processes in the Tissue Environment '
 uid: 6dbd6ca9-16dd-c3f9-cdd6-53a2a05fd5e3

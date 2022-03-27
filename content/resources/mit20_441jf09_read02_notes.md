@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 4119e0aa-103b-feda-8d48-4b951dae918c
 resourcetype: Document
 title: Tissue Structure/Unit Cell Processes
 uid: 07c5538a-19e7-3c8e-38eb-21066ddb16d9

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 10ee7baf-ff91-ea7d-5ba3-0f86d9e3456c
 resourcetype: Document
 title: What is a phenotype?
 uid: 6b23d7d3-fb89-da3f-5a6d-97f0d6b91656

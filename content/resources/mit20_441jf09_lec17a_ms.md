@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 10ee7baf-ff91-ea7d-5ba3-0f86d9e3456c
 resourcetype: Document
 title: 'Epithelialization: Epidermal Regeneration'
 uid: 2b638f4c-c6d7-88ca-27d0-c77fc5cdbbf5

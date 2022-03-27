@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 4119e0aa-103b-feda-8d48-4b951dae918c
 resourcetype: Document
 title: Methodology for Chemical Analysis of Surfaces
 uid: a9101fe0-f90a-d7c2-e26d-25fd57aa3455

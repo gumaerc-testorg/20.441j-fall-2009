@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 10ee7baf-ff91-ea7d-5ba3-0f86d9e3456c
 resourcetype: Document
 title: Cell-scaffold interactions during regeneration
 uid: 5bf36b7f-4bec-38cc-2e73-c39ee43413a5

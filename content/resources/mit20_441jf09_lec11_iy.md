@@ -14,6 +14,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 10ee7baf-ff91-ea7d-5ba3-0f86d9e3456c
 resourcetype: Document
 title: Methodology for Measuring Surface Ligand Density
 uid: 61e91b8a-e0eb-17c6-8ce9-efcc44bde8bb

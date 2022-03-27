@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 4119e0aa-103b-feda-8d48-4b951dae918c
 resourcetype: Document
 title: 'Survey of Clinical Cases of Biomaterials-Tissue Interactions: The Paradigm'
 uid: d9c5576a-81d1-7885-3a53-9bbf7b85237d

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 10ee7baf-ff91-ea7d-5ba3-0f86d9e3456c
 resourcetype: Document
 title: 'Unit Cell Processes: Bone Remodeling'
 uid: 896580f2-4461-7328-7d3a-daaace9b4217
