@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the course textbook and lists the
+  readings assigned for each class session.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 4119e0aa-103b-feda-8d48-4b951dae918c
 ---
@@ -38,7 +43,7 @@ READINGS
 Survey of clinical cases of biomaterials-tissue interactions
 {{< tdclose >}}
 {{< tdopen >}}
-Class notes: "Survey of Clinical Cases of Biomaterials-Tissue Interactions: The Paradigm." ([PDF]({{< baseurl >}}/resources/mit20_441jf09_read01_notes))
+Class notes: "Survey of Clinical Cases of Biomaterials-Tissue Interactions: The Paradigm." ({{% resource_link d9c5576a-81d1-7885-3a53-9bbf7b85237d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +63,7 @@ Integrins and adhesion proteins
 {{< tdopen >}}
 
 
-Class notes: "Tissue Structure/Unit Cell Processes." ([PDF]({{< baseurl >}}/resources/mit20_441jf09_read02_notes))
+Class notes: "Tissue Structure/Unit Cell Processes." ({{% resource_link 07c5538a-19e7-3c8e-38eb-21066ddb16d9 "PDF" %}})
 
 Giancotti, F. G., and E. Ruoslahti. "[Integrin Signaling](http://dx.doi.org/10.1126/science.285.5430.1028)." _Science_ 285 (August 13, 1999): 1028-1032.
 
@@ -78,7 +83,7 @@ Unit cell processes comprising the healing response
 {{< tdopen >}}
 
 
-Class notes: "Unit Cell Processes in the Tissue Environment." ([PDF]({{< baseurl >}}/resources/mit20_441jf09_read03_notes))
+Class notes: "Unit Cell Processes in the Tissue Environment." ({{% resource_link 6dbd6ca9-16dd-c3f9-cdd6-53a2a05fd5e3 "PDF" %}})
 
 Gehrig, L., and M. I. O'Connor. "Putting Sex in Your Orthopaedic Practice." _AAOS Now_, June 2008.
 
@@ -160,9 +165,9 @@ Analysis of surfaces of biomaterials and protein adsorption
 {{< tdopen >}}
 
 
-Class notes: "Characteristics of the Surfaces of Biomaterials." ([PDF]({{< baseurl >}}/resources/mit20_441jf09_read08_spec1))
+Class notes: "Characteristics of the Surfaces of Biomaterials." ({{% resource_link a060fe5c-253f-6c53-fc6b-0be14e9a0085 "PDF" %}})
 
-Class notes: "Methodology for Chemical Analysis of Surfaces." ([PDF]({{< baseurl >}}/resources/mit20_441jf09_read08_spec2))
+Class notes: "Methodology for Chemical Analysis of Surfaces." ({{% resource_link a9101fe0-f90a-d7c2-e26d-25fd57aa3455 "PDF" %}})
 
 Ratner, B. D. "Surface Properties of Biomaterials." In _Biomaterials Science: An Introduction to Materials_. Edited by B. D. Ratner et al. Burlington, MA: Academic Press, 1996, pp. 21-35. ISBN: 9780125824606. \[Preview in [Google Books](http://books.google.com/books?id=pZFzd8GtUe8C&lpg=PP1&pg=PA20#v=onepage&q=&f=false)\]
 
