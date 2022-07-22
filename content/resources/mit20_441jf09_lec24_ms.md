@@ -5,6 +5,7 @@ file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/eeea9d5b204325
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Cardiac Muscle Tissue Engineering
 uid: eeea9d5b-2043-2598-016d-085e79b20750
 ---
 Lecture presentation on cardiac muscle tissue engineering.
-

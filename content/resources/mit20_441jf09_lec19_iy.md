@@ -9,6 +9,7 @@ file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/47064105baea1f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Nerve synthesis in vivo  (regeneration)
 uid: 47064105-baea-1f9e-6e62-8dee21b1f325
 ---
 Lecture presentation on the anatomy and function of a peripheral nerve, experimental parameters for study of induced regeneration, synthesis of myelinated axons and BM (nerve fibers), evidence of synthesis of an endoneurium, synthesis of a nerve trunk (including summary of kinetics of synthesis), and comparative regenerative activity of various reactants.
-

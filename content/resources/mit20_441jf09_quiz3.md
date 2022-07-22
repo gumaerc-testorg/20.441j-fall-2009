@@ -6,6 +6,7 @@ file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/2764ecbcf05416
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Quiz #3'
 uid: 2764ecbc-f054-163a-58f3-21194f85d753
 ---
 Quiz on designing a study to replace scar with skin, and biomaterials for total knee replacement.
-

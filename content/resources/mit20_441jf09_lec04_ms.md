@@ -7,6 +7,7 @@ file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/567cb2f7b2b355
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Unit Cell Processes Underlying Tissue Engineering and Regenerative Medici
 uid: 567cb2f7-b2b3-5514-44ed-f29100d68ed7
 ---
 Lecture presentation on unit cell processes underlying tissue engineering and regenerative medicine, cell therapy for local repair, cell-matrix interactions required for tissue engineering, and the roles of the biomaterials/scaffolds.
-

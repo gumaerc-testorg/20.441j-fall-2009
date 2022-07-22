@@ -6,6 +6,7 @@ file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/7ca07f707c6ce4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Skin Physiology
 uid: 7ca07f70-7c6c-e4cd-29f2-6db1548c2f96
 ---
 Lecture presentation on the anatomy of skin, sensors in the skin, the organ of touch, the language of skin, and skin as a barrier.
-

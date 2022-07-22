@@ -7,6 +7,7 @@ file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/3e8637ad7db3af
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ uid: 3e8637ad-7db3-af2d-a0cc-ae43002eef30
 ---
 Lecture presentation on the deformability of tissues and organs, collagen fibers, orientation patterns in different organs, periodic structure of 
 crystalline fibers at different scales, elastin fibers, and glycosaminoglycans (GAGs).
-

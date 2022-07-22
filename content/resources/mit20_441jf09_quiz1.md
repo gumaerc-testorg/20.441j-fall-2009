@@ -6,6 +6,7 @@ file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/ef2a417049f004
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Quiz #1'
 uid: ef2a4170-49f0-042d-3d30-672149ec438f
 ---
 Quiz on implants to treat defects in the intervertebral disc and loss of cell-biomaterial binding due to manufacturing error during preparation of biomaterial.
-

@@ -6,6 +6,7 @@ file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/3a543104757343
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Epithelialization: Endothelialization'
 uid: 3a543104-7573-43cf-65c9-9dc22ce975cc
 ---
 Lecture presentation on epithelialization (epidermal regeneration) and endothelialization of vascular prostheses.
-

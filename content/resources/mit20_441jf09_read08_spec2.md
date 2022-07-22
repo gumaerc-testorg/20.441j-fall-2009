@@ -6,6 +6,7 @@ file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/a9101fe0f90ad7
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Methodology for Chemical Analysis of Surfaces
 uid: a9101fe0-f90a-d7c2-e26d-25fd57aa3455
 ---
 Lecture notes on methodology for chemical analysis of surfaces, objectives of analysis, microscopy, diffraction, contact angle, and spectroscopy.
-

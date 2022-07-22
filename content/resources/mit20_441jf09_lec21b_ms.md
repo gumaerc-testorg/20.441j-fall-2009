@@ -6,6 +6,7 @@ file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/033ded6cfe2e7a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Orthopaedic Joint Replacement Prostheses and Dental Implants: Permanent 
 uid: 033ded6c-fe2e-7a40-51d4-1a6dd244fed9
 ---
 Lecture presentation on orthopaedic joint replacement prostheses and dental implants.
-

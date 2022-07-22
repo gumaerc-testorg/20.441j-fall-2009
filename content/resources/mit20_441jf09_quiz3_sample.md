@@ -5,6 +5,7 @@ file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/5b0f063d8aeb8a
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Quiz 3 Sample problem, as solved in class '
 uid: 5b0f063d-8aeb-8ad5-d52c-2122f8178715
 ---
 Solutions to sample problems on synthetic pathways for a new conjunctiva.
-

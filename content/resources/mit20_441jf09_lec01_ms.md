@@ -7,6 +7,7 @@ file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/6cefa010a56628
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Introduction
 uid: 6cefa010-a566-283c-442c-5ab0bf234c22
 ---
 Introductory lecture presentation on biomaterials-tissue interactions, permanent biomaterials, favorable responses, adverse responses, passive responses, and wound healing.
-

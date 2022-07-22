@@ -8,6 +8,7 @@ file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/79132699a884da
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Structural determinants of biologically active materials
 uid: 79132699-a884-dab3-35de-90429554566b
 ---
 Lecture presentation on the structural determinants of biologically active materials, engineering the control of structure of collagen-based biomaterials, and identification of structural features that determine the biological activity of scaffolds.
-
