@@ -65,9 +65,9 @@ Integrins and adhesion proteins
 
 Class notes: "Tissue Structure/Unit Cell Processes." ({{% resource_link 07c5538a-19e7-3c8e-38eb-21066ddb16d9 "PDF" %}})
 
-Giancotti, F. G., and E. Ruoslahti. "[Integrin Signaling](http://dx.doi.org/10.1126/science.285.5430.1028)." _Science_ 285 (August 13, 1999): 1028-1032.
+Giancotti, F. G., and E. Ruoslahti. "{{% resource_link "e385c6af-4c83-4ccf-b23d-746fbf79f015" "Integrin Signaling" %}}." _Science_ 285 (August 13, 1999): 1028-1032.
 
-Ruoslathi, E., and M. D. Pierschbacher. "[New Perspectives in Cell Adhesion: RGD and Integrins](http://dx.doi.org/10.1126/science.2821619)." _Science_ 238, no. 4826 (October 23, 1987): 491-497.
+Ruoslathi, E., and M. D. Pierschbacher. "{{% resource_link "14023290-865a-4c46-9a0a-2b07136fbe32" "New Perspectives in Cell Adhesion: RGD and Integrins" %}}." _Science_ 238, no. 4826 (October 23, 1987): 491-497.
 
 
 {{< tdclose >}}
@@ -113,11 +113,11 @@ Structure and function of naturally occurring ECMs
 {{< tdopen >}}
 
 
-Di Lullo, G. A., et al. "[Mapping the Ligand-binding Sites and Disease-associated Mutations on the Most Abundant Protein in the Human, Type I Collagen](http://dx.doi.org/10.1074/jbc.M110709200)." _J Biol Chem_ 277, no. 6, I (February 8, 2002): 4223-4231.
+Di Lullo, G. A., et al. "{{% resource_link "3344c6d8-b06a-4916-a4db-2c56370f2798" "Mapping the Ligand-binding Sites and Disease-associated Mutations on the Most Abundant Protein in the Human, Type I Collagen" %}}." _J Biol Chem_ 277, no. 6, I (February 8, 2002): 4223-4231.
 
-Emsley, J., et al. "[Structural Basis of Collagen Recognition by Integrin α2β1](http://dx.doi.org/10.1016/S0092-8674(00)80622-4)." _Cell_ 101 (March 31, 2000): 47-56.
+Emsley, J., et al. "{{% resource_link "7dc520e8-7ab2-4a56-a4ad-767c7ec6d60a" "Structural Basis of Collagen Recognition by Integrin α2β1" %}}." _Cell_ 101 (March 31, 2000): 47-56.
 
-Knight, C. Graham. "[The Collagen-binding A-domains of Integrins α1β1 and α2β1 Recognize the Same Specific Amino Acid Sequence, GFOGER, in Native (Triple-helical) Collagens](http://dx.doi.org/10.1074/jbc.275.1.35)." _J Biol Chem_ 275, no. 1 (January 7, 2000): 35-40.
+Knight, C. Graham. "{{% resource_link "7b8d827c-8198-418b-a93e-88b154f3851a" "The Collagen-binding A-domains of Integrins α1β1 and α2β1 Recognize the Same Specific Amino Acid Sequence, GFOGER, in Native (Triple-helical) Collagens" %}}." _J Biol Chem_ 275, no. 1 (January 7, 2000): 35-40.
 
 Darnell, J. E., H. F. Lodish, and D. Baltimore. "Laminin, Fibronectin and Other Multiadhesive Matrix Glycoproteins." Chapter 23.4 in _Molecular Cell Biology_. 2nd ed. New York, NY: W. H. Freeman, 1990, pp. 920-924. ISBN: 9780716719816.
 
@@ -169,7 +169,7 @@ Class notes: "Characteristics of the Surfaces of Biomaterials." ({{% resource_li
 
 Class notes: "Methodology for Chemical Analysis of Surfaces." ({{% resource_link a9101fe0-f90a-d7c2-e26d-25fd57aa3455 "PDF" %}})
 
-Ratner, B. D. "Surface Properties of Biomaterials." In _Biomaterials Science: An Introduction to Materials_. Edited by B. D. Ratner et al. Burlington, MA: Academic Press, 1996, pp. 21-35. ISBN: 9780125824606. \[Preview in [Google Books](http://books.google.com/books?id=pZFzd8GtUe8C&lpg=PP1&pg=PA20#v=onepage&q=&f=false)\]
+Ratner, B. D. "Surface Properties of Biomaterials." In _Biomaterials Science: An Introduction to Materials_. Edited by B. D. Ratner et al. Burlington, MA: Academic Press, 1996, pp. 21-35. ISBN: 9780125824606. \[Preview in {{% resource_link "8aaa1a40-a015-49cc-8423-f550183b93d9" "Google Books" %}}\]
 
 Andrade, J. D., ed. Excerpts from "Principles of Protein Adsorption." Chapter 1 in _Surface and Interfacial Aspects of Biomedical Polymers, Vol. 2. Protein Adsorption_. New York, NY: Plenum Press, 1985. ISBN: 9780306417412.
 
@@ -225,11 +225,11 @@ Cell-scaffold interactions during regeneration
 
 \[TORA\], Chapters 9 and 10
 
-Freyman, T. M., I. V. Yannas, R. Yokoo, and L. J. Gibson. "[Fibroblast Contraction of a Collagen-GAG Matrix](http://dx.doi.org/10.1016/S0142-9612(01)00034-5)." _Biomaterials_ 22 (2001): 2883-2891.
+Freyman, T. M., I. V. Yannas, R. Yokoo, and L. J. Gibson. "{{% resource_link "b1e4d4a9-fa14-4fef-84f7-1c701d02392c" "Fibroblast Contraction of a Collagen-GAG Matrix" %}}." _Biomaterials_ 22 (2001): 2883-2891.
 
-Freyman, T. M., I. V. Yannas, Y-S. Pek, R. Yokoo, and L. J. Gibson. "[Micromechanics of Fibroblast Contraction of a Collagen-GAG Matrix](http://dx.doi.org/10.1006/excr.2001.5302)." _Experimental Cell Research_ 269 (2001): 140-153.
+Freyman, T. M., I. V. Yannas, Y-S. Pek, R. Yokoo, and L. J. Gibson. "{{% resource_link "2f6046f5-8d8a-4a15-aaa3-f46279ccf839" "Micromechanics of Fibroblast Contraction of a Collagen-GAG Matrix" %}}." _Experimental Cell Research_ 269 (2001): 140-153.
 
-Freyman, T. M., I. V. Yannas, R. Yokoo, and L. J. Gibson. "[Fibroblast Contractile Force Is Independent of the Stiffness Which Resists the Contraction](http://dx.doi.org/10.1006/excr.2001.5408)." _Experimental Cell Research_ 272 (2002): 153-162.
+Freyman, T. M., I. V. Yannas, R. Yokoo, and L. J. Gibson. "{{% resource_link "10451d61-5a28-4c70-b367-43198655bc58" "Fibroblast Contractile Force Is Independent of the Stiffness Which Resists the Contraction" %}}." _Experimental Cell Research_ 272 (2002): 153-162.
 
 
 {{< tdclose >}}
@@ -287,11 +287,11 @@ Tissue response to implants; biocompatibility
 {{< tdopen >}}
 
 
-Dolores, W., et al. "[Cellular and Molecular Composition of Fibrous Capsules Formed Around Silicone Breast Implants with Special Focus on Local Immune Reactions](http://dx.doi.org/10.1016/j.jaut.2004.03.005)." _Journal of Autoimmunity_ 23, no. 1 (2004): 81-91.
+Dolores, W., et al. "{{% resource_link "c7a4ffd7-b75b-412f-87b6-678a248885f4" "Cellular and Molecular Composition of Fibrous Capsules Formed Around Silicone Breast Implants with Special Focus on Local Immune Reactions" %}}." _Journal of Autoimmunity_ 23, no. 1 (2004): 81-91.
 
-Gordon, S., and P. R. Taylor. "[Monocyte and Macrophage Heterogeneity](http://dx.doi.org/10.1038/nri1733)." _Nature Reviews Immunology_ 5 (December 2005): 953-964.
+Gordon, S., and P. R. Taylor. "{{% resource_link "51f0e9c7-859b-467d-9cd9-2ae9c7e35340" "Monocyte and Macrophage Heterogeneity" %}}." _Nature Reviews Immunology_ 5 (December 2005): 953-964.
 
-Spector, M., and P. A. Lalor. "_In Vivo_ Assessment of Tissue Compatibility." Chapter 5.3 in _Biomaterials Science: An Introduction to Materials_. Edited by B. D. Ratner, et al. Burlington, MA: Academic Press, 1996, pp. 220-228. ISBN: 9780125824606. \[Preview in [Google Books](http://books.google.com/books?id=pZFzd8GtUe8C&lpg=PP1&pg=PA220#v=onepage&q=&f=false)\]
+Spector, M., and P. A. Lalor. "_In Vivo_ Assessment of Tissue Compatibility." Chapter 5.3 in _Biomaterials Science: An Introduction to Materials_. Edited by B. D. Ratner, et al. Burlington, MA: Academic Press, 1996, pp. 220-228. ISBN: 9780125824606. \[Preview in {{% resource_link "b5386f38-23b6-4cb2-b488-ccdac70db755" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -307,7 +307,7 @@ Epithelialization (epidermal regeneration) and endothelialization of vascular pr
 {{< tdopen >}}
 
 
-Buter, C. E., D. P. Orgill, I. V. Yannas, and C. C. Compton. "[Effect of Keratinocyte Seeding of Collagen-Glycosaminoglycan Membranes on the Regeneration of Skin in a Porcine Model](http://www.ncbi.nlm.nih.gov/pubmed/9583488)." _Plastic & Recontructive Surgery_ 101, no. 6 (May 1998): 1572-1579.
+Buter, C. E., D. P. Orgill, I. V. Yannas, and C. C. Compton. "{{% resource_link "6c48eaf8-775c-4101-b66e-13f827511caa" "Effect of Keratinocyte Seeding of Collagen-Glycosaminoglycan Membranes on the Regeneration of Skin in a Porcine Model" %}}." _Plastic & Recontructive Surgery_ 101, no. 6 (May 1998): 1572-1579.
 
 
 {{< tdclose >}}
@@ -337,7 +337,7 @@ _In vivo_ synthesis of peripheral nerve
 
 \[TORA\], Chapter 6
 
-Yannas, I. V., M. Zhang, and M. H. Spilker. "[Standardized Criterion to Analyze and Directly Compare Various Materials and Models for Peripheral Nerve Regeneration](http://dx.doi.org/10.1163/156856207781494386)." _J Biomater Sci, Polymer Edn_ 18, no. 8 (2007): 943-966.
+Yannas, I. V., M. Zhang, and M. H. Spilker. "{{% resource_link "6219fc65-a31a-4ea3-b654-d43e024d4fb7" "Standardized Criterion to Analyze and Directly Compare Various Materials and Models for Peripheral Nerve Regeneration" %}}." _J Biomater Sci, Polymer Edn_ 18, no. 8 (2007): 943-966.
 
 
 {{< tdclose >}}
