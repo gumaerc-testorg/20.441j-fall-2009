@@ -6,6 +6,7 @@ description: Lecture notes on cell-surface interactions, biological specificity 
   unit cell process, a model of a critical transition from noncooperative to cooperative
   cell behavior, and use of matrix algebra to decompose Z.
 file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/c223a5626126a83acf580c1780db2b83_MIT20_441JF09_lec14_iy.pdf
+file_size: 221034
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

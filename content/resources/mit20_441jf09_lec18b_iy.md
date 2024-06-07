@@ -4,6 +4,7 @@ description: Lecture presentation on induced regeneration, synthesis of epidermi
   and BM, synthesis of dermis, partial synthesis of skin, comparative regenerative
   activity of reactants, and the overall mechanism of skin regeneration.
 file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/5b0c621a0bc47f226b43bb5c25dcdc88_MIT20_441JF09_lec18b_iy.pdf
+file_size: 413517
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

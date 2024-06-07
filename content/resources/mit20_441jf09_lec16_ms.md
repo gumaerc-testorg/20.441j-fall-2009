@@ -4,6 +4,7 @@ description: "Lecture presentation on tissue response to implants, biocompatibil
   \ wound healing, regeneration versus repair, \u03B1-smooth muscle actin immunohistochemistry,\
   \ and lubricin immunohistochemistry."
 file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/c7cef0eea2661be72b95c7899202127b_MIT20_441JF09_lec16_ms.pdf
+file_size: 6355760
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
