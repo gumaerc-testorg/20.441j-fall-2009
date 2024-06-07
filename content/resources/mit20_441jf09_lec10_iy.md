@@ -5,6 +5,7 @@ description: Lecture presentation on the structural determinants of biologically
   and identification of structural features that determine the biological activity
   of scaffolds.
 file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/79132699a884dab335de90429554566b_MIT20_441JF09_lec10_iy.pdf
+file_size: 2255156
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
