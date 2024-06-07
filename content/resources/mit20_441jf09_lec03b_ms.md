@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation on the formation of soft tissue and bone around
   implants.
 file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/8aff3f07f4982e5a9fe6792647498265_MIT20_441JF09_lec03b_ms.pdf
+file_size: 4482281
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
