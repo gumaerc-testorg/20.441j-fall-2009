@@ -4,7 +4,7 @@ description: Lecture presentation on biomaterials-tissue interactions, tissue st
   control volume, unit cell processes, cell-matrix interactions, mitosis, migration,
   synthesis, contraction, tissue formation and remodeling in vitro, and wound healing
   in vitro.
-file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/b40c6209118136c3b2f1a19e2ab133de_MIT20_441JF09_lec02b_ms.pdf
+file: /ol-ocw-studio-app/courses/20-441j-biomaterials-tissue-interactions-fall-2009/b40c6209118136c3b2f1a19e2ab133de_MIT20_441JF09_lec02b_ms.pdf
 file_size: 3152304
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on regeneration of joint tissues, factors that can
   prevent regeneration, biomaterials, scaffolds, and organ printing.
-file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/18df6eb1d218f4d8a8e6c50295132ea1_MIT20_441JF09_lec22_ms.pdf
+file: /ol-ocw-studio-app/courses/20-441j-biomaterials-tissue-interactions-fall-2009/18df6eb1d218f4d8a8e6c50295132ea1_MIT20_441JF09_lec22_ms.pdf
 file_size: 4227351
 file_type: application/pdf
 learning_resource_types:
