@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on unit cell processes comprising the healing response.
-file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/eccafe2a7afdc9333e326098f0ed3120_MIT20_441JF09_lec03a_ms.pdf
+file: /ol-ocw-studio-app/courses/20-441j-biomaterials-tissue-interactions-fall-2009/eccafe2a7afdc9333e326098f0ed3120_MIT20_441JF09_lec03a_ms.pdf
 file_size: 4174936
 file_type: application/pdf
 learning_resource_types:

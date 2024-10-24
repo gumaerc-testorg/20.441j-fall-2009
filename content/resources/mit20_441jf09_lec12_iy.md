@@ -4,7 +4,7 @@ description: Lecture presentation on cell-scaffold interactions during regenerat
   evidence supporting antagonistic relation between contraction and regeneration,
   and the similarity between early fetal regeneration and induced regeneration in
   adults.
-file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/5bf36b7f4bec38cc2e73c39ee43413a5_MIT20_441JF09_lec12_iy.pdf
+file: /ol-ocw-studio-app/courses/20-441j-biomaterials-tissue-interactions-fall-2009/5bf36b7f4bec38cc2e73c39ee43413a5_MIT20_441JF09_lec12_iy.pdf
 file_size: 4001200
 file_type: application/pdf
 learning_resource_types:

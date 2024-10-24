@@ -5,7 +5,7 @@ description: Lecture presentation on the anatomy and function of a peripheral ne
   axons and BM (nerve fibers), evidence of synthesis of an endoneurium, synthesis
   of a nerve trunk (including summary of kinetics of synthesis), and comparative regenerative
   activity of various reactants.
-file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/47064105baea1f9e6e628dee21b1f325_MIT20_441JF09_lec19_iy.pdf
+file: /ol-ocw-studio-app/courses/20-441j-biomaterials-tissue-interactions-fall-2009/47064105baea1f9e6e628dee21b1f325_MIT20_441JF09_lec19_iy.pdf
 file_size: 4064988
 file_type: application/pdf
 learning_resource_types:
