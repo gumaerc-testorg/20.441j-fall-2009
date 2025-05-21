@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on epithelialization (epidermal regeneration) and
   endothelialization of vascular prostheses.
-file: /ol-ocw-studio-app/courses/20-441j-biomaterials-tissue-interactions-fall-2009/3a543104757343cf65c99dc22ce975cc_MIT20_441JF09_lec17b_ms.pdf
+file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/3a543104757343cf65c99dc22ce975cc_MIT20_441JF09_lec17b_ms.pdf
 file_size: 998830
 file_type: application/pdf
 learning_resource_types:

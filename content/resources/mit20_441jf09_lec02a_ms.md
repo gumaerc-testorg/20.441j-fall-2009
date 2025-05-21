@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture presentation on the cell and its membrane molecules, viewing
   histological sections, tissue classification, connective tissues, epithelial tissues,
   muscle tissues, nerve tissues, and the embryonic germ disc.
-file: /ol-ocw-studio-app/courses/20-441j-biomaterials-tissue-interactions-fall-2009/56f7bcf7bea068834241b132a5453f4e_MIT20_441JF09_lec02a_ms.pdf
+file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/56f7bcf7bea068834241b132a5453f4e_MIT20_441JF09_lec02a_ms.pdf
 file_size: 1286599
 file_type: application/pdf
 learning_resource_types:
