@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on reversible and irreversible injury,  the extracellular
   matrix (ECM), and the tissue triad in organs.
-file: /ol-ocw-studio-app/courses/20-441j-biomaterials-tissue-interactions-fall-2009/5f5e795a3d588990e11b17e386f23b4b_MIT20_441JF09_lec06_iy.pdf
+file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/5f5e795a3d588990e11b17e386f23b4b_MIT20_441JF09_lec06_iy.pdf
 file_size: 714900
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on methodology for chemical analysis of surfaces, objectives
   of analysis, microscopy, diffraction, contact angle, and spectroscopy.
-file: /ol-ocw-studio-app/courses/20-441j-biomaterials-tissue-interactions-fall-2009/a9101fe0f90ad7c2e26d25fd57aa3455_MIT20_441JF09_read08_spec2.pdf
+file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/a9101fe0f90ad7c2e26d25fd57aa3455_MIT20_441JF09_read08_spec2.pdf
 file_size: 50983
 file_type: application/pdf
 learning_resource_types:
