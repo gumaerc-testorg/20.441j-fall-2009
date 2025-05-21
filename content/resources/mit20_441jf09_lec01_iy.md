@@ -4,7 +4,7 @@ description: 'Lecture presentation on how biomaterials are used, five therapies 
   the missing organ, tissue and organ regeneration viewed as processes of chemical
   synthesis, the mechanism of organ regeneration, cell-matrix interactions, and the
   unit cell process. '
-file: /ol-ocw-studio-app/courses/20-441j-biomaterials-tissue-interactions-fall-2009/f3eae92a63d0d95ffac3cabadfa1fb10_MIT20_441JF09_lec01_iy.pdf
+file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/f3eae92a63d0d95ffac3cabadfa1fb10_MIT20_441JF09_lec01_iy.pdf
 file_size: 4411227
 file_type: application/pdf
 learning_resource_types:

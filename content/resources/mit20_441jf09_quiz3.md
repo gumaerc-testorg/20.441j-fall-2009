@@ -2,7 +2,7 @@
 content_type: resource
 description: Quiz on designing a study to replace scar with skin, and biomaterials
   for total knee replacement.
-file: /ol-ocw-studio-app/courses/20-441j-biomaterials-tissue-interactions-fall-2009/2764ecbcf054163a58f321194f85d753_MIT20_441JF09_quiz3.pdf
+file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/2764ecbcf054163a58f321194f85d753_MIT20_441JF09_quiz3.pdf
 file_size: 129905
 file_type: application/pdf
 learning_resource_types:
