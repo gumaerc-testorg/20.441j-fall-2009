@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture presentation on noncooperative cell behavior, individual cell
   interaction with a biomaterial surface, and the effect of matrix stiffness on cell
   contraction.
-file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/9580886fef93c7f2667f722ccccebca9_MIT20_441JF09_lec13_iy.pdf
+file: /ol-ocw-studio-app/courses/20-441j-biomaterials-tissue-interactions-fall-2009/9580886fef93c7f2667f722ccccebca9_MIT20_441JF09_lec13_iy.pdf
 file_size: 3890129
 file_type: application/pdf
 learning_resource_types:

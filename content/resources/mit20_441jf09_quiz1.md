@@ -2,7 +2,7 @@
 content_type: resource
 description: Quiz on implants to treat defects in the intervertebral disc and loss
   of cell-biomaterial binding due to manufacturing error during preparation of biomaterial.
-file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/ef2a417049f0042d3d30672149ec438f_MIT20_441JF09_quiz1.pdf
+file: /ol-ocw-studio-app/courses/20-441j-biomaterials-tissue-interactions-fall-2009/ef2a417049f0042d3d30672149ec438f_MIT20_441JF09_quiz1.pdf
 file_size: 182953
 file_type: application/pdf
 learning_resource_types:
