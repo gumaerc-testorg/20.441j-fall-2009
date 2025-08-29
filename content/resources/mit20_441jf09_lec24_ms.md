@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on cardiac muscle tissue engineering.
-file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/eeea9d5b20432598016d085e79b20750_MIT20_441JF09_lec24_ms.pdf
+file: /ol-ocw-studio-app/courses/20-441j-biomaterials-tissue-interactions-fall-2009/eeea9d5b20432598016d085e79b20750_MIT20_441JF09_lec24_ms.pdf
 file_size: 3912681
 file_type: application/pdf
 learning_resource_types:
